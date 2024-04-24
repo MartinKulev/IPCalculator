@@ -1,0 +1,96 @@
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\appsettings.Development.json
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\appsettings.json
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.exe
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.deps.json
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.pdb
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Google.Protobuf.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Humanizer.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Mono.TextTemplating.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\MySql.Data.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\MySql.EntityFrameworkCore.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\Newtonsoft.Json.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\System.CodeDom.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\System.Security.Permissions.dll
+F:\Vs projects\IP.WithoutDB\bin\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\staticwebassets.build.json
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\staticwebassets.development.json
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\staticwebassets.pack.json
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalcul.DFA32A36.Up2Date
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\refint\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.pdb
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\Vs projects\IP.WithoutDB\obj\Release\net8.0\ref\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\appsettings.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.exe
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.deps.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.runtimeconfig.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Google.Protobuf.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Humanizer.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\MySql.Data.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\System.CodeDom.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.AssemblyInfo.cs
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalcul.DFA32A36.Up2Date
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\refint\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\IPCalculator.Web.genruntimeconfig.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Release\net8.0\ref\IPCalculator.Web.dll

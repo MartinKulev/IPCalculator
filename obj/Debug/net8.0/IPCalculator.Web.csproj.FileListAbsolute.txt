@@ -1,0 +1,1152 @@
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\IPCalculator.Web.exe
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\IPCalculator.Web.deps.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+C:\Users\Martin\source\repos\IPs\WebApplication1\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\source\repos\IPs\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+C:\Users\Martin\Desktop\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+E:\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+E:\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+E:\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+E:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+E:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+E:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+E:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+E:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+E:\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+E:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+E:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+E:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+E:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+E:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+E:\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+E:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+E:\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+F:\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+F:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\ZstdSharp.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+F:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+F:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+F:\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+E:\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+C:\Users\Martin\Desktop\flash 28.11\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+C:\Users\Martin\Desktop\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+E:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\flash 30.11\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\flash 30.11\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+E:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\flash 04.12\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\flash 04.12\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+E:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\flash 10.12\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\flash 10.12\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.Development.json
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.json
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.exe
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.deps.json
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Google.Protobuf.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Humanizer.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.Data.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.CodeDom.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.build.json
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.development.json
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.pdb
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+E:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.Development.json
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.json
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Google.Protobuf.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Humanizer.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.Data.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.CodeDom.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.build.json
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.development.json
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.Development.json
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.json
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.exe
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.deps.json
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.pdb
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Google.Protobuf.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Humanizer.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.Data.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.CodeDom.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\flash 10.12\IP.WithoutDB - Copy\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.build.json
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.development.json
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.dll
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.pdb
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+D:\flash 10.12\IP.WithoutDB - Copy\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.Development.json
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.json
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Google.Protobuf.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Humanizer.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.Data.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.CodeDom.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.build.json
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.development.json
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.Development.json
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\appsettings.json
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.exe
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.deps.json
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\IPCalculator.Web.pdb
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Humanizer.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.Data.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.CodeDom.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Vs projects\IP.WithoutDB - Copy\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.build.json
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.development.json
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.pdb
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+D:\Vs projects\IP.WithoutDB - Copy\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+D:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Vs projects\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CopyComplete
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+E:\Vs projects\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\appsettings.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.exe
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.deps.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.pdb
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+C:\Users\Martin\Desktop\Flash Versions\flash 10.04\Vs projects\IP.WithoutDB\obj\Debug\net8.0\ref\IPCalculator.Web.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\appsettings.Development.json
+F:\IPCalculatorWeb\bin\Debug\net8.0\appsettings.json
+F:\IPCalculatorWeb\bin\Debug\net8.0\IPCalculator.Web.staticwebassets.runtime.json
+F:\IPCalculatorWeb\bin\Debug\net8.0\IPCalculator.Web.exe
+F:\IPCalculatorWeb\bin\Debug\net8.0\IPCalculator.Web.deps.json
+F:\IPCalculatorWeb\bin\Debug\net8.0\IPCalculator.Web.runtimeconfig.json
+F:\IPCalculatorWeb\bin\Debug\net8.0\IPCalculator.Web.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\IPCalculator.Web.pdb
+F:\IPCalculatorWeb\bin\Debug\net8.0\Google.Protobuf.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Humanizer.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\MySql.Data.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\System.CodeDom.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\IPCalculatorWeb\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.csproj.AssemblyReference.cache
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfoInputs.cache
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.AssemblyInfo.cs
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.csproj.CoreCompileInputs.cache
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cache
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.RazorAssemblyInfo.cs
+F:\IPCalculatorWeb\obj\Debug\net8.0\staticwebassets.build.json
+F:\IPCalculatorWeb\obj\Debug\net8.0\staticwebassets.development.json
+F:\IPCalculatorWeb\obj\Debug\net8.0\staticwebassets\msbuild.IPCalculator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IPCalculatorWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.IPCalculator.Web.props
+F:\IPCalculatorWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IPCalculator.Web.props
+F:\IPCalculatorWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IPCalculator.Web.props
+F:\IPCalculatorWeb\obj\Debug\net8.0\staticwebassets.pack.json
+F:\IPCalculatorWeb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\IPCalculatorWeb\obj\Debug\net8.0\scopedcss\bundle\IPCalculator.Web.styles.css
+F:\IPCalculatorWeb\obj\Debug\net8.0\scopedcss\projectbundle\IPCalculator.Web.bundle.scp.css
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalcul.DFA32A36.Up2Date
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.dll
+F:\IPCalculatorWeb\obj\Debug\net8.0\refint\IPCalculator.Web.dll
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.pdb
+F:\IPCalculatorWeb\obj\Debug\net8.0\IPCalculator.Web.genruntimeconfig.cache
+F:\IPCalculatorWeb\obj\Debug\net8.0\ref\IPCalculator.Web.dll

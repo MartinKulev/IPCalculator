@@ -1,0 +1,279 @@
+﻿@using System.Text
+@using Microsoft.AspNetCore.Html
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/reset-css@5.0.2/reset.min.css" rel="stylesheet">
+    <title>IP Details</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .text-bold {
+            font-weight: bold;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            color: #333333;
+            margin: 0;
+            align-items: center;
+            text-align: center;
+            overflow: auto;
+        }
+
+        .container {
+            height: 80%;
+            margin-top: 150px;
+            display: flex;
+            flex-wrap: nowrap;
+            align-items: center;
+            align-content: center;
+            flex-direction: column;
+            justify-content: space-evenly;
+        }
+
+        .main-heading {
+            color: #ff6600;
+            text-align: center;
+            font-size: 50px;
+            font-weight: bold;
+            margin-top: 30px;
+            position: absolute;
+            left: 0;
+            right: 0;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .ip-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            margin: 0px auto;
+            width: 500px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            font-weight: bold;
+        }
+
+        .main-logo {
+            position: absolute;
+            top: 0;
+            left: 0;
+            max-width: 160px;
+            max-height: 182.19px;
+        }
+
+        .ip-form {
+            display: flex;
+            flex: 1;
+            padding-top: 10px;
+            justify-content: space-between;
+        }
+
+        .subnetCount-input {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            flex-grow: 1;
+            margin-right: 10px;
+            width: 100px;
+        }
+
+        .submit-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #ff6600;
+            color: #ffffff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            .submit-button:hover {
+                background-color: #ff7214;
+            }
+
+        .error-view {
+            color: red;
+            margin-top: 5px;
+        }
+
+        .h-legend {
+            color: #ff6600;
+            font-size: 30px;
+            text-align: center;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .legend {
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            top: 0;
+            right: 0;
+            padding: 10px;
+            font-weight: bold;
+        }
+
+        .legend-item {
+            text-align: left;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+
+            .legend-item span {
+                display: inline-block;
+                width: 20px;
+                height: 20px;
+                margin-right: 3px;
+                border-radius: 4px;
+                vertical-align: middle;
+            }
+
+            .legend-item .green {
+                background-color: green;
+            }
+
+            .legend-item .blue {
+                background-color: blue;
+            }
+
+            .legend-item .red {
+                background-color: red;
+            }
+
+        .ip-table {
+            width: 100%;
+        }
+
+            .ip-table th, .ip-table td {
+                padding: 8px;
+                text-align: center;
+                font-weight: bold;
+                border: 1px solid #ddd;
+            }
+
+            .ip-table th {
+                color: #ff6600;
+                font-size: 150%;
+            }
+
+        .ip-box {
+            display: inline-block;
+            padding: 4px 8px;
+            background-color: #e2e2e2;
+        }
+
+        .table-container {
+            margin-bottom: 100px;
+            max-width: 95%;
+            min-width: 95%;
+        }
+
+    </style>
+</head>
+@functions {
+    IHtmlContent IPBinColouring(string networkPart, string hostPart)
+    {
+        string[] parts = { networkPart, hostPart };
+        string[] colors = { "green", "blue" };
+
+        string newStr = string.Empty;
+
+        int reachedIndex = 0;
+
+        for (int i = 0; i < parts.Length; i++)
+        {
+            string currentString = parts[i];
+
+            // Start a color section
+            newStr += $"<span style=\"color: {colors[i]}\">";
+
+            for (int j = 0; j < currentString.Length; j++)
+            {
+                // Add a black divider
+                if (reachedIndex % 8 == 0 && reachedIndex != 0)
+                {
+                    newStr += "<i style=\"color: black\">";
+                    newStr += ".";
+                    newStr += "</i>";
+                }
+
+                newStr += currentString[j];
+                reachedIndex++;
+            }
+
+            // Close a color section
+            newStr += "</span>";
+        }
+
+        return new HtmlString(newStr);
+    }
+}
+<body>
+    <h1 class="main-heading">@Model.IPDec Детайли</h1>
+    <img class="main-logo" src="https://spge-bg.com/wp-content/uploads/2017/05/LogoSPGEwebTr.png">
+    <div class="legend">
+        <div class="h-legend">Легенда:</div>
+        <div class="legend-item"><span class="green"></span> : Мрежова част</div>
+        <div class="legend-item"><span class="blue"></span> : Хостова част</div>
+        <div class="legend-item"><span class="red"></span> : Подмрежова част</div>
+    </div>
+    <section class="container">
+        <div class=" table-container">
+            <table class="ip-table">
+                <tbody>
+                    <tr>
+                        <th>IP</th>
+                        <th>Мрежа</th>
+                        <th>Мрежова маска</th>
+                        <th>Мрежови адрес</th>
+                        <th>Broadcast адрес</th>
+                        <th>Обхват</th>
+                    </tr>
+                    <tr>
+                        <td><span class="ip-box">@Model.IPDec</span></td>
+                        <td><span class="ip-box">Клас @Model.NetworkClass</span></td>
+                        <td><span class="ip-box">@Model.SMDec</span></td>
+                        <td><span class="ip-box">@Model.NADec</span></td>
+                        <td><span class="ip-box">@Model.BRADec</span></td>
+                        <td><span class="ip-box">@Model.Range</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="ip-box">@Model.IPBin</span></td>
+                        <td><span class="ip-box"></span></td>
+                        <td><span class="ip-box">@Html.Raw(IPBinColouring(@Model.SMBin.NetworkPart, @Model.SMBin.HostPart))</span></td>
+                        <td><span class="ip-box">@Html.Raw(IPBinColouring(@Model.NABin.NetworkPart, @Model.NABin.HostPart))</span></td>
+                        <td><span class="ip-box">@Html.Raw(IPBinColouring(@Model.BRABin.NetworkPart, @Model.BRABin.HostPart))</span></td>
+                        <td><span class="ip-box"></span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="ip-container">
+            <span class="text-bold">Въведете брой подмрежи:</span>
+            <form class="ip-form" method="post" asp-controller="InternetProtocol" asp-action="IP">
+                <input type="number" class="subnetCount-input" id="subnetCount" name="subnetCount">
+                <button type="submit" class="submit-button">Потвърди</button>
+            </form>
+            @if (ViewData["ErrorSubnetCountMessage"] != null)
+            {
+                <span class="error-view">@ViewData["ErrorSubnetCountMessage"]</span>
+            }
+        </div>
+    </section>
+</body>
+</html>
